@@ -1,0 +1,7 @@
+h2,p{
+    color: blue;
+}
+.Judul_artikel, .Isi_artikel{
+    color: red;
+    text-align: center;
+}
