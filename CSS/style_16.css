@@ -1,0 +1,18 @@
+body {
+    /* background-color: pink; */
+   background-image: url(gambar/bg3.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+  
+   
+}
+.jumbotroon {
+    width: 700px;
+    height: 300px;
+    border: 1px solid black;
+    margin: auto;
+    background-image: url(gambar/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
